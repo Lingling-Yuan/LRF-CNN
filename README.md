@@ -23,7 +23,6 @@ This repository provides the official implementation of LRF-CNN, a lightweight a
 - **Public:** ✔  
 - **Link:** [EBHI on Figshare](https://figshare.com/articles/dataset/EBH-HE-IDS/16999363/1)
 
----
 
 ###  HE-GHI-DS (Gastric Cancer)
 - **Classes:** Normal, Abnormal  
@@ -31,13 +30,8 @@ This repository provides the official implementation of LRF-CNN, a lightweight a
 - **Public:** ✔  
 - **Link:** [HE-GHI-DS on Mendeley](https://data.mendeley.com/datasets/thgf23xgy7/2)
 
----
-
 ### PD-L1 EC (Esophageal Cancer)
 - **Classes:** Positive, Negative  
 - **Format:** PNG, 290×320  
 - **Public:** ✘ *Private dataset*  
-- **Note:** To request access, please contact the first author via email.
-
-📧 **Contact for dataset access or pre-trained weights:**  
-[yuanlingling0314@163.com](mailto:yuanlingling0314@163.com)
+- **Note:** To request access, please contact the first author via email [yuanlingling0314@163.com](mailto:yuanlingling0314@163.com)
