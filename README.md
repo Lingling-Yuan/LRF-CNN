@@ -20,19 +20,19 @@ Primary experiments on the publicly available EBHI dataset demonstrate strong an
 
 ## Datasets
 
-1. EBHI (Colorectal Histopathology, Primary Dataset)
+1. **EBHI (Colorectal Histopathology, Primary Dataset):**
 EBHI is the primary benchmark used in this work for five-class colorectal histopathological image classification.
 Open-source link: https://figshare.com/articles/dataset/EBH-HE-IDS/16999363/1
 
-2. HE-GHI-DS (Gastric Histopathology)
+2. **HE-GHI-DS (Gastric Histopathology):**
 HE-GHI-DS is used for binary gastric histopathological image classification.
 Open-source link: https://data.mendeley.com/datasets/thgf23xgy7/2
 
-3. EC-PD-L1 (Esophageal Cancer, PD-L1 Status Prediction)
+3. **EC-PD-L1 (Esophageal Cancer, PD-L1 Status Prediction):**
 EC-PD-L1 is used for binary PD-L1 status prediction in esophageal cancer.
 Open-source link: https://doi.org/10.6084/m9.figshare.31989708
 
-4. Chaoyang (Colorectal Histopathology)
+4. **Chaoyang (Colorectal Histopathology):**
 Chaoyang is used for additional evaluation on four-class colorectal histopathological image classification.
 Open-source link: https://bupt-ai-cz.github.io/HSA-NRL/
 
