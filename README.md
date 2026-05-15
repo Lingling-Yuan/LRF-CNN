@@ -1,6 +1,5 @@
-# LRF-CNN: Explainable Lightweight Receptive Field-based CNN for Histopathological Image Classification
+# [iScience 2026] LRF-CNN: Explainable Lightweight Receptive Field-based CNN for Histopathological Image Classification
 
-Status: Under Review
 
 ## Authors
 
