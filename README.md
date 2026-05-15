@@ -15,7 +15,7 @@ For explainability, the framework further includes post-hoc activation quantific
 
 Primary experiments on the publicly available EBHI dataset demonstrate strong and stable performance, achieving a mean accuracy of 92.09% through repeated experiments and cross-validation. Additional evaluations on HE-GHI-DS, PD-L1 EC, and Chaoyang, as well as an external-validation setting under domain shift, further show that LRF-CNN achieves a favorable balance between classification performance, computational efficiency, and explainability.
 
-![Overview](Fig-overview.png)
+![Overview](overview.png)
 
 
 ## Datasets
