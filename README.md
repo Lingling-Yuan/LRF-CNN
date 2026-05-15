@@ -1,4 +1,4 @@
-# [iScience 2026] LRF-CNN: Explainable Lightweight Receptive Field-based CNN for Histopathological Image Classification
+# [iScience 2026] LRF-CNN: An explainable lightweight receptive field-based CNN for colorectal cancer histopathological image classification
 
 
 ## Authors
@@ -16,14 +16,6 @@ For explainability, the framework further includes post-hoc activation quantific
 Primary experiments on the publicly available EBHI dataset demonstrate strong and stable performance, achieving a mean accuracy of 92.09% through repeated experiments and cross-validation. Additional evaluations on HE-GHI-DS, PD-L1 EC, and Chaoyang, as well as an external-validation setting under domain shift, further show that LRF-CNN achieves a favorable balance between classification performance, computational efficiency, and explainability.
 
 ![Overview](Fig-overview.png)
-
-## Highlights
-
-- Lightweight and explainable CNN architecture for histopathological image classification
-- Multi-branch LRF blocks for enhanced multi-scale feature extraction
-- Attention mechanism integrating DropConnect and SENet
-- Post-hoc explainability through activation quantification and feature visualization
-- Validated on colorectal, gastric, and esophageal histopathological datasets
 
 
 ## Datasets
