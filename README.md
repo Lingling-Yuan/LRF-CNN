@@ -32,11 +32,11 @@ HE-GHI-DS is used for binary gastric histopathological image classification.
 
 Open-source link: https://data.mendeley.com/datasets/thgf23xgy7/2
 
-### 3) PD-L1 EC (Esophageal Cancer, PD-L1 Status Prediction)
+### 3) EC-PD-L1 (Esophageal Cancer, PD-L1 Status Prediction)
 
-PD-L1 EC is used for binary PD-L1 status prediction in esophageal cancer.
+EC-PD-L1 is used for binary PD-L1 status prediction in esophageal cancer.
 
-This dataset is not publicly available. To request access, please contact the first author via email: yuanlingling0314@163.com
+Open-source link: https://doi.org/10.6084/m9.figshare.31989708
 
 ### 4) Chaoyang (Colorectal Histopathology)
 
