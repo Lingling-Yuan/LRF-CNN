@@ -1,4 +1,4 @@
-# [iScience 2026] KRF-CNN: An explainable lightweight receptive field-based CNN for colorectal cancer histopathological image classification
+# [iScience 2026] LRF-CNN: An explainable lightweight receptive field-based CNN for colorectal cancer histopathological image classification
 
 
 ## Authors
